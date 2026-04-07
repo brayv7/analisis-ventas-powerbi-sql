@@ -70,6 +70,7 @@ Se desarrolló un dashboard interactivo con:
 
 Dashboard
 
+<img width="1258" height="650" alt="dashboard" src="https://github.com/user-attachments/assets/23c96c28-a9da-449d-8efa-f8a99e0b7177" />
 
 
 
