@@ -90,7 +90,7 @@ El análisis permitió identificar patrones de comportamiento en los productos q
 
 -Estructura del Proyecto
 
-proyecto-analisis-ventas/
+analisis-ventas-powerbi-sql/
 │
 ├── README.md
 ├── consultas.sql
